@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity  {
     }
 
     private void initView() {
-        
+
         imghome =findViewById(R.id.img_home);
         imgcuochen=findViewById(R.id.img_cuochen_navi);
         imgtiepnhan=findViewById(R.id.img_tiepnhan_navi);
